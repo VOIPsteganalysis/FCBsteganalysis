@@ -1,8 +1,8 @@
 # FCB dataset
 
-- Chinese.  
+- Chinese  :  the decoded position pulse position used in our paper, update later
 
-- English
+- English : the decoded position pulse position used in our paper, update later
 
   
 
