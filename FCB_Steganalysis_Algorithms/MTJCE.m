@@ -83,6 +83,7 @@ for i = 1:8
     for j = 1:8
         if Joint_p(i,j)~=0
            en_j = en_j+Joint_p(i,j)*log2( Joint_p(i,j));
+        end
     end
 end
 
