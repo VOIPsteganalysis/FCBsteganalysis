@@ -12,3 +12,4 @@
 
 - [Fast-SPP](https://github.com/VOIPsteganalysis/FCBsteganalysis/tree/master/FCB_Steganalysis_Algorithms/Fast-SPP.m) : our implementation of the FCB steganalysis method proposed in the paper [AMR steganalysis based on the probability of same pulse position](https://ieeexplore.ieee.org/abstract/document/7083709)
 
+- [NJPB](https://github.com/VOIPsteganalysis/FCBsteganalysis/tree/master/FCB_Steganalysis_Algorithms/NJPB.m) : our proposed FCB steganalysis algorithms.
